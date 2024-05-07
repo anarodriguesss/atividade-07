@@ -42,7 +42,3 @@ Principais funções do GitHub:
 5. **Conecte seu repositório local ao GitHub:** Copie o URL do repositório remoto do GitHub e adicione-o como um remoto no seu repositório local usando o comando `git remote add origin <URL do repositório>`.
 
 6. **Envie suas alterações para o GitHub:** Finalmente, execute o comando `git push -u origin master` para enviar as alterações do seu repositório local para o GitHub.
-
----
-
-Espero que isso te ajude a começar com Git e GitHub! Se precisar de mais informações ou esclarecimentos, estou aqui para ajudar.
